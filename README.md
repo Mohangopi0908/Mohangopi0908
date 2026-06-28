@@ -33,6 +33,10 @@ I am a data professional with **7+ years of experience** spanning data analytics
 - Developed a comprehensive **Project Management Plan** for an AI-powered complaint prioritization system using a **Hybrid Agile** framework.
 - Defined scope, budget ($26k), risk registers, and NLP-based triage logic to reduce manual processing by **60%**.
 
+#### [📈 Retail Sales Impact Analysis](https://github.com/Mohangopi0908/Retail-Sales-Impact-Analysis)
+- Quantified the impact of pricing, advertising, and competition on SKU-level demand using **OLS** and **Ridge Regression**.
+- Analyzed **122k+ observations**, achieving an **R² of 0.74** and identifying key seasonal trends to optimize marketing ROI.
+
 ---
 
 ### 💼 Professional Experience
