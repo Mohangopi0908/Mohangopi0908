@@ -29,6 +29,10 @@ I am a data professional with **7+ years of experience** spanning data analytics
 #### [⚖️ Wage Disparity Prediction](https://github.com/Mohangopi0908/Wage-Disparity-Prediction) *(Coming Soon)*
 - Used **OLS Regression** and **XGBoost** to identify significant predictors of wage disparities in survey data.
 
+#### [📊 Smart Complaint Detection Management](https://github.com/Mohangopi0908/Smart-Complaint-Detection-Management)
+- Developed a comprehensive **Project Management Plan** for an AI-powered complaint prioritization system using a **Hybrid Agile** framework.
+- Defined scope, budget ($26k), risk registers, and NLP-based triage logic to reduce manual processing by **60%**.
+
 ---
 
 ### 💼 Professional Experience
