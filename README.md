@@ -1,70 +1,88 @@
-# Hi there, I'm Mohan Gopi Yadlapalli 👋
+# Hi there, I'm Mohan Gopi Yadlapalli 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
 
-### Data Professional | Data Scientist | AI/ML Engineer
+<p align="left">
+  <a href="https://linkedin.com/in/mohan-gopi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohangopi0908@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-I am a data professional with **7+ years of experience** spanning data analytics, data science, and AI/ML engineering. I hold a **Master of Science in Advanced Data Analytics** from the University of North Texas (GPA: 4.0). I specialize in building end-to-end data solutions, predictive models, and LLM-based pipelines.
-
----
-
-### 🚀 Technical Skills
-
-- **Languages:** Python, SQL, Bash
-- **AI / ML / Deep Learning:** PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers, RNN/LSTM/GRU, NLP, Prompt Engineering
-- **Data Engineering & Cloud:** AWS, GCP, Azure, SQL Server, PostgreSQL, BigQuery, Apache Spark, Hive
-- **Visualization:** Power BI, Tableau, Looker Studio, Microsoft Excel
-- **Tools:** Git, GitHub Actions, JIRA, Agile/Kanban
-
----
-
-### 📊 Featured Projects
-
-#### [✈️ DFW Flight Arrival Prediction](https://github.com/Mohangopi0908/DFW-Flight-Delay-Prediction)
-- Built a flight-level predictive model for American Airlines at DFW using **XGBoost** and **Neural Networks**.
-- Processed **1M+ flight records** and integrated weather/infrastructure data to improve arrival predictions by **15.9%** over baseline.
-- Applied **SHAP** for model interpretability, identifying key meteorological drivers of delay.
-
-#### [🎬 Film Score Gap Forecasting](https://github.com/Mohangopi0908/Film-Score-Forecasting) *(Coming Soon)*
-- Developed **RNN, LSTM, and GRU** architectures in **PyTorch** to forecast audience-vs-critic score gaps on IMDB data.
-
-#### [⚖️ Wage Disparity Prediction](https://github.com/Mohangopi0908/Wage-Disparity-Prediction) *(Coming Soon)*
-- Used **OLS Regression** and **XGBoost** to identify significant predictors of wage disparities in survey data.
-
-#### [📊 Smart Complaint Detection Management](https://github.com/Mohangopi0908/Smart-Complaint-Detection-Management)
-- Developed a comprehensive **Project Management Plan** for an AI-powered complaint prioritization system using a **Hybrid Agile** framework.
-- Defined scope, budget ($26k), risk registers, and NLP-based triage logic to reduce manual processing by **60%**.
-
-#### [📈 Retail Sales Impact Analysis](https://github.com/Mohangopi0908/Retail-Sales-Impact-Analysis)
-- Quantified the impact of pricing, advertising, and competition on SKU-level demand using **OLS** and **Ridge Regression**.
-- Analyzed **122k+ observations**, achieving an **R² of 0.74** and identifying key seasonal trends to optimize marketing ROI.
+### 👨‍💻 About Me
+I am a **Data Professional** with **7+ years of experience** bridging the gap between raw data and strategic business decisions. Currently pursuing my **M.S. in Advanced Data Analytics** at the University of North Texas (GPA: 4.0). I specialize in:
+- 🤖 **AI/ML Engineering:** Building high-performance predictive models (XGBoost, Deep Learning).
+- 📊 **Data Science:** Extracting actionable insights from massive datasets (1M+ records).
+- ☁️ **Cloud Architecture:** Designing scalable data pipelines on AWS, GCP, and Azure.
+- 🏗️ **Technical Leadership:** Leading cross-functional teams to deliver enterprise-grade analytics.
 
 ---
 
-### 💼 Professional Experience
+### 🛠️ Tech Stack & Tools
 
-- **Technical Lead @ Infosys Limited** (Dec 2021 – Jun 2026)
-  - Led a team of 12 to deliver large-scale telecom analytics on **AWS**, reducing project delays by **60%**.
-  - Automated data pipelines and built real-time tracking systems using **Power BI** and **AMDOCS**.
-- **Senior Systems Engineer / Data Analyst @ Infosys Limited** (Dec 2018 – Dec 2021)
-  - Optimized SQL workflows and restructured database schemas, improving scalability and reducing latency by **30%**.
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
+
+---
+
+### 🌟 Featured Portfolio Projects
+
+<div align="center">
+
+| Project | Key Tech | Impact |
+| :--- | :--- | :--- |
+| **[✈️ DFW Flight Arrival Prediction](https://github.com/Mohangopi0908/DFW-Flight-Delay-Prediction)** | `XGBoost`, `SHAP`, `Python` | Improved prediction accuracy by **15.9%** for American Airlines. |
+| **[📈 Retail Sales Impact Analysis](https://github.com/Mohangopi0908/Retail-Sales-Impact-Analysis)** | `OLS`, `Ridge Regression` | Achieved **0.74 R²** on 122k+ SKU-level observations. |
+| **[📊 Smart Complaint Detection](https://github.com/Mohangopi0908/Smart-Complaint-Detection-Management)** | `Agile`, `NLP`, `Triage` | Designed system to reduce manual triage by **60%**. |
+
+</div>
 
 ---
 
-### 🎓 Education
-
-- **M.S. in Advanced Data Analytics** | University of North Texas (GPA: 4.0)
-- **Relevant Coursework:** Deep Learning, Machine Learning, Advanced Data Analytics, Data Engineering
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/mohan-gopi](https://www.linkedin.com/in/mohan-gopi)
-- **Email:** [mohangopi0908@gmail.com](mailto:mohangopi0908@gmail.com)
-- **Location:** Frisco, Texas
-
----
+### 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohangopi0908&show_icons=true&theme=radical" alt="Mohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohangopi0908&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohangopi0908&show_icons=true&theme=tokyonight&count_private=true" alt="Mohan's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohangopi0908&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohangopi0908&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎓 Education & Certifications
+- **M.S. in Advanced Data Analytics** | University of North Texas (GPA: 4.0)
+- **Technical Lead Certification** | Infosys Limited
+- **Relevant Coursework:** Deep Learning, Machine Learning, Big Data Engineering
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/mohan-gopi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge&labelColor=0077B5" alt="linkedin" />
+  </a>
+  <a href="mailto:mohangopi0908@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&style=for-the-badge&labelColor=D14836" alt="gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Turning data into stories that drive decisions."</i>
 </p>
