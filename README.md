@@ -10,7 +10,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Data Professional** with **7+ years of experience** bridging the gap between raw data and strategic business decisions. Currently pursuing my **M.S. in Advanced Data Analytics** at the University of North Texas (GPA: 4.0). I specialize in:
+I am a **Data Professional** with **7+ years of experience** bridging the gap between raw data and strategic business decisions. I am a **Master of Science in Advanced Data Analytics** graduate from the University of North Texas (GPA: 4.0, Class of 2026). I specialize in:
 - 🤖 **AI/ML Engineering:** Building high-performance predictive models (XGBoost, Deep Learning).
 - 📊 **Data Science:** Extracting actionable insights from massive datasets (1M+ records).
 - ☁️ **Cloud Architecture:** Designing scalable data pipelines on AWS, GCP, and Azure.
@@ -67,9 +67,9 @@ I am a **Data Professional** with **7+ years of experience** bridging the gap be
 ---
 
 ### 🎓 Education & Certifications
-- **M.S. in Advanced Data Analytics** | University of North Texas (GPA: 4.0)
+- **M.S. in Advanced Data Analytics** | University of North Texas (GPA: 4.0) | *Graduated: May 2026* 🎓
 - **Technical Lead Certification** | Infosys Limited
-- **Relevant Coursework:** Deep Learning, Machine Learning, Big Data Engineering
+- **Key Focus Areas:** Deep Learning, Machine Learning, Big Data Engineering, Predictive Modeling
 
 ---
 
